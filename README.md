@@ -82,6 +82,7 @@ Plot 4 is included in the repo as plot4.png. The program used to generate it is 
 Description: 
 
 Create a 4 panel of graphs:
+
 1. Level of Global Active Power by Day/Time
 2. Voltage by Day/Time
 3. Energy Sub Metering by Day/Time
